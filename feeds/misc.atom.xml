@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Liry Blog</title><link href="/" rel="alternate"></link><link href="/feeds/misc.atom.xml" rel="self"></link><id>/</id><updated>2015-02-01T00:00:00+01:00</updated><entry><title>My First Review</title><link href="/my-first-review.html" rel="alternate"></link><updated>2015-02-01T00:00:00+01:00</updated><author><name>liry</name></author><id>tag:,2015-02-01:my-first-review.html</id><summary type="html">&lt;h1&gt;První článek&lt;/h1&gt;
+&lt;p&gt;StackEdit stores your documents in your browser, which means all your documents are automatically saved locally and are accessible &lt;strong&gt;offline!&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Tip:&lt;/strong&gt; Check out the &lt;a href="#publish-a-document"&gt;&lt;i class="icon-upload"&gt;&lt;/i&gt; Publish a document&lt;/a&gt; section for a description of the different output formats.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;Markdown Extra&lt;/h2&gt;
+&lt;h3&gt;Fenced code blocks&lt;/h3&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;// Foo
+var bar = 0;
+&lt;/pre&gt;&lt;/div&gt;</summary></entry></feed>
